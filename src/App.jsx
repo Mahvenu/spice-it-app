@@ -1,7 +1,7 @@
 // src/App.js
 import React from 'react';
 import './App.css';
-import CustomerInfoForm from './CustomerInfoForm';
+import CustomerInfoForm from './CustomerInfoForm.jsx';
 
 function App() {
   return (
