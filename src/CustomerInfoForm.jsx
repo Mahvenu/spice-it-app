@@ -81,3 +81,5 @@ const CustomerInforForm = () => {
         </div>
     );
 };
+
+export default CustomerInfoForm
